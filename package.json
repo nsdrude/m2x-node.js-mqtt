@@ -1,0 +1,22 @@
+{
+  "name": "m2x-nodejs-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish_value.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsdrude/m2x-node.js-mqtt.git"
+  },
+  "author": "nsdrude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsdrude/m2x-node.js-mqtt/issues"
+  },
+  "homepage": "https://github.com/nsdrude/m2x-node.js-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^2.18.0"
+  }
+}
